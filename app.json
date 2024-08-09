@@ -28,7 +28,7 @@
     },
     "OWNER_NAME": {
       "description": "Owner Name",
-      "value": "watsonxd",
+      "value": "WATSON-XD1",
       "required": true
     },
 
