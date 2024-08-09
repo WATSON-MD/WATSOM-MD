@@ -29,7 +29,7 @@
   <a href="https://github.com/Ntee-j01/NTEEJ-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/WATSON-XD1/WATSOM-MD?label=Watching&style=social"></a>
 </p>
  
-<p align="center"><img src="https://profile-counter.glitch.me/{Ntee-j01}/count.svg" alt="WATSOM MD :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{DeeCeeXxx}/count.svg" alt="WATSOM MD :: Visitor's Count" /></p>
 
 
 
