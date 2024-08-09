@@ -23,13 +23,13 @@
    
 <p align="center">
   <a href="https://github.com/WATSON-XD1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/WATSON-XD1?label=Followers&style=social"></a>
-  <a href="https://github.com/WATSON-XD1/WATSOM-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/WATSON-XD1/WATSON-MD?&style=social"></a>
-  <a href="https://github.com/WATSON-XD1/WATSON-MD/network/members"><img
-  <a href="https://github.com/WATSON-XD1/WATSON-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/WATSON-XD1/WATSON-MD?style=social"></a>
-  <a href="https://github.com/Ntee-j01/NTEEJ-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/WATSON-XD1/WATSON-MD?label=Watching&style=social"></a>
+  <a href="https://github.com/WATSON-XD1/WATSOM-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/WATSON-XD1/WATSOM-MD?&style=social"></a>
+  <a href="https://github.com/WATSON-XD1/WATSOM-MD/network/members"><img
+  <a href="https://github.com/WATSON-XD1/WATSOM-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/WATSON-XD1/WATSOM-MD?style=social"></a>
+  <a href="https://github.com/Ntee-j01/NTEEJ-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/WATSON-XD1/WATSOM-MD?label=Watching&style=social"></a>
 </p>
  
-<p align="center"><img src="https://profile-counter.glitch.me/{Ntee-j01}/count.svg" alt="Watson MD :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Ntee-j01}/count.svg" alt="WATSOM MD :: Visitor's Count" /></p>
 
 
 
@@ -42,7 +42,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Watson-xd/WATSON-MD-"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/WATSON-XD1/WATSOM-MD"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://venocyber-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
  </p>
   <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
@@ -60,7 +60,7 @@
 
 <h3>NTEEJ-MD Stats</h3>
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=WATSON-XD1&repo=WATSON-MD&theme=chartreuse-dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=WATSON-XD1&repo=WATSOM-MD&theme=chartreuse-dark)
     
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
