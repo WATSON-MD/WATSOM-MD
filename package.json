@@ -1,5 +1,5 @@
 {
-    "name": "WATSON-MD",
+    "name": "WATSON-MD1",
     "version": "1.0.0",
     "description": "Simple Whatsapp Bot made by Watsonxd",
     "main": "index.js",
@@ -10,7 +10,7 @@
         "stop": "pm2 stop Anita_0.1",
         "build": "echo \"Building the project...\""
     },
-    "author": "Watsonxd",
+    "author": "WATSON-XD1",
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
         "@hapi/boom": "^9.1.4",
@@ -73,10 +73,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Watson-xd/WATSON-MD-.git"
+        "url": "git+https://github.com/WATSON-XD1/WATSOM-MD.git"
     },
     "bugs": {
-        "url": "https://github.com/Watson-xd/WATSON-MD-/issues"
+        "url": "https://github.com/WATSON-XD1/WATSOM-MD/issues"
     },
-    "homepage": "https://github.com/Watson-xd/WATSON-MD-#readme"
+    "homepage": "https://github.com/WATSON-XD1/WATSOM-MD#readme"
 }
