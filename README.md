@@ -29,7 +29,7 @@
   <a href="https://github.com/WATSON-MD/WATSOM-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/WATSON-XD1/WATSOM-MD?label=Watching&style=social"></a>
 </p>
  
-<p align="center"><img src="https://profile-counter.glitch.me/{DeeCeeXxx}/count.svg" alt="WATSOM MD :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{WATSOM-MD}/count.svg" alt="WATSOM MD :: Visitor's Count" /></p>
 
 
 
