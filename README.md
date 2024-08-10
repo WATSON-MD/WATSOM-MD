@@ -1,5 +1,5 @@
 
-<img alt="NTEEJ MD" height="300" src="https://i.postimg.cc/NfTgXrKh/IMG-20240808-WA0006.jpg">
+<img alt="WATSOM MD" height="300" src="https://i.postimg.cc/NfTgXrKh/IMG-20240808-WA0006.jpg">
   
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -26,7 +26,7 @@
   <a href="https://github.com/WATSON-XD1/WATSOM-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/WATSON-XD1/WATSOM-MD?&style=social"></a>
   <a href="https://github.com/WATSON-XD1/WATSOM-MD/network/members"><img
   <a href="https://github.com/WATSON-XD1/WATSOM-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/WATSON-XD1/WATSOM-MD?style=social"></a>
-  <a href="https://github.com/Ntee-j01/NTEEJ-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/WATSON-XD1/WATSOM-MD?label=Watching&style=social"></a>
+  <a href="https://github.com/WATSON-MD/WATSOM-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/WATSON-XD1/WATSOM-MD?label=Watching&style=social"></a>
 </p>
  
 <p align="center"><img src="https://profile-counter.glitch.me/{DeeCeeXxx}/count.svg" alt="WATSOM MD :: Visitor's Count" /></p>
